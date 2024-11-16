@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: corsError
+
+custom:
+  cors:
+    allowed-origins:
+      - http://localhost:3000
+      - http://localhost:8081
